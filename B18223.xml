@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Parliaments endevors for setling of peace in this kingdom, being an order by them made to conioyne the subiects hearts in unity, according to the protestation formerly set forth. With the manner of apprehending Sir Basil Brooks at the city of Yorke; with the Parliaments order for bringing him to London. Their care and sedulous counsell for guarding the Tower; as also for strengthening his Maiesties castles and forts towards the sea for prevention of invasions. Being ordered the 29 of Ianuary 1642. Written and avowed by Richard Browene.</title>
+            <author>Browne, Richard, Sir, 1602?-1669.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18223</idno><idno type="EEBO-CITATION">99825486</idno>
+  <idno type="VID">205990</idno>
+  <idno type="EEBO-PROQUEST">2264202277</idno>
+  
+            <idno type="STC">Wing B5145A</idno>
+            <idno type="PROQUEST">99825486</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99825486e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18223)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205990)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1755:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Parliaments endevors for setling of peace in this kingdom, being an order by them made to conioyne the subiects hearts in unity, according to the protestation formerly set forth. With the manner of apprehending Sir Basil Brooks at the city of Yorke; with the Parliaments order for bringing him to London. Their care and sedulous counsell for guarding the Tower; as also for strengthening his Maiesties castles and forts towards the sea for prevention of invasions. Being ordered the 29 of Ianuary 1642. Written and avowed by Richard Browene.</title>
+                  <author>Browne, Richard, Sir, 1602?-1669.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Iohn Hammond,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Formerly identified as Wing B5004 ("no entry" in Wing 2nd ed., 1994).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Brook, Basil, --  Sir, 1576-1646? --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205990:1"/>
+            <p>THE PARLIAMENTS ENDEVORS FOR setling of peace in this Kingdom, Being an order by them made to conioyne the Sub<g ref="char:EOLhyphen"/>iects hearts in unity, according to the Prote<g ref="char:EOLhyphen"/>station formerly set forth. With the manner of apprehending Sir <hi>Basil Brooks</hi> at the City of Yorke; with the Parliaments order for bringing him to London. Their care and sedulous counsell for guarding the Tower; as also for strengthening his Maiesties Castles and Forts towards the Sea for prevention of invasions. <hi>Being ordered the</hi> 29 <hi>of Ianuary</hi> 1642. Written and avowed by <hi>Richard Browene.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>Iohn Hammond.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:205990:2"/>
+            <pb facs="tcp:205990:2"/>
+            <head>The Parliaments Indeavours for setling of Peace in this KINGDOME. <hi>Ordered</hi>
+               <date>the 29. <hi>of Ianuary,</hi> 1642.</date>
+            </head>
+            <p>THE sedulous care and indulgent indeavors of the Parliament, have been daily and ap<g ref="char:EOLhyphen"/>parantly manifested unto us, both for setling of Religion, and removing of opposition in State affaires; Notwithstanding, the daily repulses and inventions of malignant and approbrious persons have been the meanes of hindrance, that they could not produce those good effects by them intended, nor give that lustre, according to their expectati<g ref="char:EOLhyphen"/>on, and due to their so noble Propositions. Order upon order, warrant upon warrant have been by them enacted to the same effect, which were either intercepted, and the prosecution thereof denyed, or some other new commotions arising through the as<g ref="char:EOLhyphen"/>siduous premeditation of theirs and our enemies, have entervened to the abrupt dissolution, or at least promulgation of their desires, that being forced of two evills to choose the least, they have been com<g ref="char:EOLhyphen"/>pelled to leave the one unfurnished, and provide means for the resistance of the other, The Kingdom having been hitherto so devided in opinions, religi<g ref="char:EOLhyphen"/>ons, sects and divisions, that they have had scarce op<g ref="char:EOLhyphen"/>portunities to prosecute any great and necessary mat<g ref="char:EOLhyphen"/>ters
+<pb facs="tcp:205990:3"/>in removing of State-grievances, nor setling of Religion in that exact way as it was intended, and ought to be done, The Parliament therefore (to the intent that our friends might be descifered, and knowne from our foes) taking into their considera<g ref="char:EOLhyphen"/>tion the difficulty of composing matters in a good forme without it, hath revived the former Protesta<g ref="char:EOLhyphen"/>tion concerning the maintenance of Parliament pri<g ref="char:EOLhyphen"/>viledges to be sworne unto by all Subiects remain<g ref="char:EOLhyphen"/>ing within his Maiesties Realme of England, the tenor whereof is in these words following.</p>
+            <q>I <hi>A. B. doe in the presence of Almighty God, promise, vow, and protest, to maintaine and defend, as far as lawfully I may, with my life, power and estate, the true reformed Pro<g ref="char:EOLhyphen"/>testant Religion, expressed in the Doctrine of the Church of England, against all Popery and Popish Innovations within this Realme, contrary to the same Doctrine, and according to to the duty of my Allegiance, his Majesties Royall Person, Honour and Estate; as also the Power and Priviledges of Par<g ref="char:EOLhyphen"/>liament; The lawfull Rights and Liberties of the Subject, and every person that maketh this Protestation, in whatsoever hee shall doe in the lawfull pursuance of the same. and to my po<g ref="char:EOLhyphen"/>wer, as farre as lawfully I may, I will oppose, and by all good wayes and meanes indeavour to bring to condigne punishment, all such as shall either by Force, Practise Coun<g ref="char:EOLhyphen"/>sells, Plots, Conspiracies, or otherwise, doe any thing to the con<g ref="char:EOLhyphen"/>trary of any thing in this present Protestation contained. And further, that I shall in all just and Honorable wayes indeavour to preserue the Vnion and Peace between the three Kingdoms of England, Scotland and Ireland, And neither for hope, fear, nor other respect, shall relinquish this Promise, vow, and Pro<g ref="char:EOLhyphen"/>testation.</hi>
+            </q>
+            <pb facs="tcp:205990:3"/>
+            <p>The Protestation before written, was ordered by the Parliament to be sent through all places of this Kingdome, to be sworne unto by all loyall Subjects speedily, and without delay. And that all that lived within Threescore miles of the City of <hi>London,</hi> should take the same by the Twelfth of <hi>February</hi> next ensuing; And those that were of further di<g ref="char:EOLhyphen"/>stance from hence, by the one and twentyeth of <hi>March</hi> next following, or to answere their con<g ref="char:EOLhyphen"/>tempt to the House.</p>
+            <p>This will be a meanes to introduce the first be<g ref="char:EOLhyphen"/>ginnings of peace to this Kingdome, our enemies shall be knowne by their deniall of the same, and our friends by adhering unto it.</p>
+         </div>
+         <div type="account">
+            <pb facs="tcp:205990:4"/>
+            <head>THE MANNER OF APPREHEN<g ref="char:EOLhyphen"/>ding Sir <hi>Basill Brooks,</hi> being a Delinquent.</head>
+            <p>SIR <hi>Basil Brookes</hi> finding himselfe guilty of be<g ref="char:EOLhyphen"/>ing an enemy to the State and Commonwealth, and fearing lest the iust censure of the Parlia<g ref="char:EOLhyphen"/>ment (as an incendinary against them) should attach him, he fled to <hi>Ware,</hi> and so onwards towards <hi>Yorke,</hi> notwithstanding he left the road, and went towards <hi>Cambridge</hi> &amp; <hi>Lincolne,</hi> somwhat out of the way, for feare of being sent after, and so described; but attai<g ref="char:EOLhyphen"/>ning his iourneyes end to <hi>York,</hi> hee resolved to stay there untill hee might have some conveniencie of transportation for Holland; and hee in that respect tooke up his Inne at one <hi>George Dickinsons</hi> house, being at the signe of the three golden Cuppes upon Fosse Bridge, where he remained foure dayes pri<g ref="char:EOLhyphen"/>vately, never comming forth of his Chamber. There comming in the meane time to the Maior of the said Citie, a warrant for his apprehension, being suspe<g ref="char:EOLhyphen"/>cted because he concealed himselfe. Hee was seized upon by the said Maior, his man being first exami<g ref="char:EOLhyphen"/>ned, who simply confessed his name, with whom he remained untill order since being sent from the Par<g ref="char:EOLhyphen"/>liament for traducing him to London, and have the Sheriffes of the severall Shires in his way, with a strong guard to be his conduct untill he be produced
+<pb facs="tcp:205990:4"/>before the Parliament to heare his further examina<g ref="char:EOLhyphen"/>tion and censure.</p>
+            <p>The Parliaments care and indulgences hath not onely been manifested towards this Kingdome, in seeking the apprehending and removing of malevo<g ref="char:EOLhyphen"/>lent persons, but also by plotting and devising seve<g ref="char:EOLhyphen"/>rall meanes and wayes to strengthen and fortifie the Forts and strongest places of defence in it, as name<g ref="char:EOLhyphen"/>ly, the Tower, having been formerly delivered into the hands of such, whose malignant intents have since palpably appeared, taking it into their considerati<g ref="char:EOLhyphen"/>ons, that it is one of the principall Forts &amp; strengths of this Kingdome. Vpon the six and twentieth of this present moneth of Ianuory, they resolved upon removing of such Warders in the same which were found not diligent and watchfull in the discharging of their offices, and to have the trained Bands daily exercised in their Armes, for the enabling of them for service, if need were, they being many of them altogether unskilfull in their postures. There were likewise orders sent downe into the severall Coun<g ref="char:EOLhyphen"/>ties of Wiltshire, Hampshire, and Dorsetshire for the fortifications of their Castles both in the Island of Wight, and other where, that every Castle should have a trained band to bee ready at an houres warning, to aid it if occasion should be given by any forraigne enemy, besides the Gunners and Matrosses belonging thereto, and for the daily exercising of their men in Arms, that they may bee both able and skilfull in the defence of their King and Countrey: as also for the suppressing of the Popish power, and
+<pb facs="tcp:205990:5"/>their relinquishing their Armes, so that their wills and deed may not be equall, if they should raise any mutiny, they having no Amunition but swords left them to defend themselves, or offend us.</p>
+            <p>These are the quotidiall and inexpressible good deeds of this honourable Parliament towards us whose counsels are delivered as precedents, not ora<g ref="char:EOLhyphen"/>tions; whose endevours so right, so iust, so equall, and carrying with them such an Emphasis of godli<g ref="char:EOLhyphen"/>nesse and piety, that we make no doubt but God will adde (of his wonderfull mercy) a happy end to these their hopefull beginnings, to his glory and honour, the Parliaments eternall renowne, and the continuall ioy of all such true and loyall subiects as delight to peruse the effects of piety and true Religion.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
